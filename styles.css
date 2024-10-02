@@ -113,6 +113,14 @@ header {
         display: block;
     }
 
+    .accordion-header {
+        background-color: #7ab675 !important;
+    }
+
+    .accordion-content {
+        background-color: #7ab675 !important;
+    }
+
     nav ul {
         display: grid !important;
         text-align: start !important;
